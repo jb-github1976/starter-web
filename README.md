@@ -11,6 +11,10 @@ More text to the ReadMe file :)
 
 Sample website with plenty of files for demos
 
+adding even more :)
+
 ## Deployment
+
+This is a simple web project, deploy, text
 
 ## How To Contribute
