@@ -1,7 +1,8 @@
 # Starter Web Project
 
 This is a a simple website project for showing how to use Git for REadme
-This repository is for showing how Git and GitHub work
+This repository is for showing how Git and GitHub work.
+Adding a line for rebasing exmaple
 
 ## Introduction
 
