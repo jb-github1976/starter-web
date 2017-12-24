@@ -19,6 +19,8 @@ This is a simple web project, deploy, text
 
 ## How To Contribute
 
+Please fork this repository... and more..
+
 ### Copyright
 
 2017 Git.Training.
