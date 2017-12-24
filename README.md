@@ -18,3 +18,7 @@ adding even more :)
 This is a simple web project, deploy, text
 
 ## How To Contribute
+
+### Copyright
+
+2017 Git.Training.
