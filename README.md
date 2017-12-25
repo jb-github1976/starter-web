@@ -25,4 +25,4 @@ Please fork this repository... and more..
 
 ### Copyright
 
-2017 Git.Training.
+2017 Git.Training. All rights reserved.
